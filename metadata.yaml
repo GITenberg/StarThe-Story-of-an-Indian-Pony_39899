@@ -1,0 +1,40 @@
+_repo: StarThe-Story-of-an-Indian-Pony_39899
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Miles, Nelson Appleton
+    aliases:
+    - Miles, N. A. (Nelson Appleton)
+    - Miles, General (Nelson Appleton)
+    birthdate: 1839
+    deathdate: 1925
+    gutenberg_agent_id: '3398'
+    url: http://www.gutenberg.org/2009/agents/3398
+    wikipedia: http://en.wikipedia.org/wiki/Nelson_A._Miles
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hooker, Forrestine C. (Forrestine Cooper)
+    alias: Cooper, Forrestine
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '5736'
+    url: http://www.gutenberg.org/2009/agents/5736
+description: ''
+gutenberg_issued: '2012-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39899'
+  lccn: '22023384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parker, Quanah, 1845?-1911 -- Juvenile fiction'
+- !lcsh 'Comanche Indians -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Star: The Story of an Indian Pony'
+url: http://www.gutenberg.org/ebooks/39899
